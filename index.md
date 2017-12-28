@@ -37,7 +37,7 @@ Why we conduct workshop frequently?
 
 **09:30 - 11:15   Session 1: Basics of Optimization theory for Neural Networks**
 
-Presenter: [Dr. Soman K. P.](http://nlp.amrita.edu/facultytalk/talks.html)
+Presenter: [Dr. Soman K. P.](http://nlp.amrita.edu:8080/somankp/index.html)
 
 Neural Networks (NNs) are one of the bedrock model on the area of Machine Learning and Artificial Intelligence. A numerical optimization problem appears when NNs are applied for solving Machine Learning problems, which consists in minimizing a non-convex function in a multidimensional space. Several algorithms based on the first order derivative (gradient type algorithms) of this non-convex function have been successfully applied for training Feedforward NNs (FNNs).
 
