@@ -57,7 +57,7 @@ Presenter: [Mr. Vijay Krishna Menon](https://www.amrita.edu/faculty/m-vijaykrish
 
 **03:00 - 08:00   Session 3.1: Hands-on Session**
 
-Presenter: [Mr. Vinayakumar R](https://sites.google.com/site/vinayakumarr77/), [Mr. Barathi Ganesh HB](https://sites.google.com/site/barathiganeshhb/) and [Mr. Harikrishnan N B](https://harikrishnannb.blogspot.in/)
+Presenter: [Mr. Vinayakumar R](https://sites.google.com/site/vinayakumarr77/), [Mr. Barathi Ganesh HB](https://barathiganesh-hb.github.io/) and [Mr. Harikrishnan N B](https://harikrishnannb.blogspot.in/)
 
 
 Funded Projects in CyberSecurity Domain
